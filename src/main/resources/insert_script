@@ -1,0 +1,102 @@
+INSERT INTO questions (question, option1, option2, option3, option4, correct_answer,type) VALUES
+-- Question 1
+(
+  'Which country hosted the very first FIFA World Cup in 1930?',
+  'Brazil',
+  'Uruguay',
+  'Argentina',
+  'Italy',
+  'Uruguay', 'single'
+),
+-- Question 2
+(
+  'What is the maximum number of substitutions allowed per team in a professional football match?',
+  '3',
+  '5',
+  '7',
+  'Unlimited',
+  '5', 'single'
+),
+-- Question 3
+(
+  'Which player holds the record for most goals scored in a single FIFA World Cup tournament?',
+  'Lionel Messi',
+  'Cristiano Ronaldo',
+  'Just Fontaine',
+  'Pelé',
+  'Just Fontaine', 'single'
+),
+-- Question 4
+(
+  'What is the offside rule in football?',
+  'Any player closer to the opponents goal than the ball and the second last defender is offside.',
+  'Any player further from their own goal than the ball and the second last defender is offside.',
+  'Any player who touches the ball with their hands is offside.',
+  'There is no such rule in football.',
+  'Any player further from their own goal than the ball and the second last defender is offside.', 'single'
+),
+-- Question 5
+(
+  'Which team has won the most UEFA Champions League titles?',
+  'Bayern Munich',
+  'Real Madrid',
+  'Barcelona',
+  'Manchester United',
+  'Real Madrid', 'single'
+),
+-- Question 6
+(
+  'What is the nickname of the FIFA Ballon Or award?',
+  'Golden Boot',
+  'Golden Globe',
+  'European Golden Shoe',
+  'Golden Ball',
+  'Golden Ball', 'single'
+),
+-- Question 7
+(
+  'Who is the current head coach of the England national football team?',
+  'Gareth Southgate',
+  'Pep Guardiola',
+  'Jürgen Klopp',
+  'Thomas Tuchel',
+  'Gareth Southgate', 'single'
+),
+-- Question 8
+(
+  'What is the name of the annual international football tournament between South American and European champions?',
+  'Copa America',
+  'Confederations Cup',
+  'Europa League',
+  'FIFA World Cup',
+  'Confederations Cup', 'single'
+),
+-- Question 9
+(
+  'What is the penalty kick distance from the goal in football?',
+  '10 yards',
+  '11 yards',
+  '12 yards',
+  '13 yards',
+  '11 yards', 'single'
+),
+-- Question 10
+(
+  'Which player famously scored the winning goal in the 1999 UEFA Champions League final with an overhead kick?',
+  'Zinédine Zidane',
+  'David Beckham',
+  'Ronaldinho',
+  'Thierry Henry',
+  'Zinédine Zidane', 'single'
+),
+-- Question 11
+(
+  'Which current football players hold the joint record for most Ballon dOr awards?',
+  'Lionel Messi',
+  'Cristiano Ronaldo',
+  'Kylian Mbappé',
+  'Luka Modrić',
+  'Lionel Messi, Cristiano Ronaldo', 'single'
+)
+
+;
